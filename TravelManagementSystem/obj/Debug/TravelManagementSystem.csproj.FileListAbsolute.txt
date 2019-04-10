@@ -1,0 +1,10 @@
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\bin\Debug\TravelManagementSystem.exe.config
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\bin\Debug\TravelManagementSystem.exe
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\bin\Debug\TravelManagementSystem.pdb
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.csprojAssemblyReference.cache
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.Form1.resources
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.Properties.Resources.resources
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.csproj.GenerateResource.cache
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.exe
+C:\Users\arsal\source\repos\TravelManagementSystem\TravelManagementSystem\obj\Debug\TravelManagementSystem.pdb
