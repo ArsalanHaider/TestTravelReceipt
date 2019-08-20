@@ -15,7 +15,7 @@ namespace TravelManagementSystem
         private void timer1_Tick(object sender, EventArgs e)
         {
             DateTime iTime = DateTime.Now;
-            lblTime.Text = iTime.ToLongTimeString();
+            lblTime.Te3xt = iTime.ToLongTimeString();
 
             DateTime iDate = DateTime.Now;
             lblDate.Text = iDate.ToLongDateString();
